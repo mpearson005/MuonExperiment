@@ -2,7 +2,8 @@ bin/*
 *.root
 *.log
 *.o
-slartibartfast.sh
+*.heprep
+muonexperiment.sh
 install/*
 build/*
 Config.hh
