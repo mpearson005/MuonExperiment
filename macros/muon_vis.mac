@@ -1,7 +1,7 @@
 /rat/db/set DETECTOR experiement "muonPaddle"
 /rat/db/set DETECTOR geo_file "muonPaddle/muonPaddle.geo"
-/rat/db/set PMT[lappd] width 4.5
-/rat/db/set PMT[lappd] thick 4.25
+/rat/db/set PMT[lappd] width 110.0
+/rat/db/set PMT[lappd] thick 2.0
 #/rat/db/set DAQ[SplitEVDAQ] trigger_threshold 2.0
 #/rat/db/load "PMTINFO.ratdb"
 # Already loaded
