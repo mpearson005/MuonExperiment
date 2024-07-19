@@ -3,7 +3,9 @@ bin/*
 *.log
 *.o
 *.heprep
+*.swp
 muonexperiment.sh
 install/*
 build/*
+src/*
 Config.hh
