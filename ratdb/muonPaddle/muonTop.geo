@@ -7,7 +7,8 @@
 	type: "box",
 	size: [1207,545,45],
 	rotation: [0.0,0.0,90.0]
-	position: [-708.0,0.0,2149.5]
+	//rotation: [0.0,0.0,0.0]
+	position: [-695.0,0.0,1943.0]
 	material: "air"
 }
 //#####
@@ -75,6 +76,7 @@
 	color: [0,100,100],
 	position: [0.0,0.0,0.0],
 	rotation: [0.0,0.0,180.0],
+	//rotation: [0.0,0.0,0.0],
 	material: "air",
 	size: [700.0,106.7,5.7]
 }
@@ -944,7 +946,7 @@
 	type: "box",
 	size: [1207,545,45],
 	rotation: [0.0,0.0,90.0]
-	position: [708.0,0.0,2149.5]
+	position: [695.0,0.0,1943.0]
 	material: "air"
 }
 //#####
@@ -1880,7 +1882,7 @@
 	mother: "world",
 	type: "box",
 	size: [1207,545,45],
-	position: [0.0,-708.0,2049.5]
+	position: [0.0,695.0,1842]
 	material: "air"
 }
 {
@@ -2813,7 +2815,8 @@
 	mother: "world",
 	type: "box",
 	size: [1207,545,45],
-	position: [0.0,708.0,2049.5]
+	position: [0.0,-695.0,1842]
+	rotation: [0.0,0.0,180]
 	material: "air",
 }
 //#####
@@ -3741,3 +3744,348 @@
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
+// YES I HATE THIS TOO
+// PMTS
+
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_103_slat1",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 0,
+//	end_idx: 0,
+//	mother:"paddle_103_slat1lightguide",
+//	//mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_103_slat2",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 1,
+//	end_idx: 1,
+//	mother:"paddle_103_slat2lightguide",
+//	//mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_300_slat1",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 2,
+//	end_idx: 2,
+//	mother:"paddle_300_slat1lightguide",
+//	//mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_300_slat2",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 3,
+//	end_idx: 3,
+//	mother:"paddle_300_slat2lightguide",
+//	//mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_80_slat1",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 4,
+//	end_idx: 4,
+//	mother:"paddle_80_slat1lightguide",
+//	//mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_80_slat2",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 5,
+//	end_idx: 5,
+//	mother:"paddle_80_slat2lightguide",
+//	//mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+{
+	name: "GEO",
+	index: "pmt_paddle_303_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 6,
+	end_idx: 6,
+	mother:"paddle_303_slat1lightguide",
+	//mother: "world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_top",
+	orientation: "manual", 
+}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_303_slat2",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 7,
+//	end_idx: 7,
+//	mother:"paddle_303_slat2lightguide",
+//	//mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+// UNDO LATER{
+//	name: "GEO",
+//	index: "pmt_paddle_88_slat1",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 8,
+//	end_idx: 8,
+//	mother:"paddle_88_slat1lightguide",
+//	//mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_88_slat2",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 9,
+//	end_idx: 9,
+//	mother:"paddle_88_slat2lightguide",
+//	//mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//#############
+//PMTS for crate_B
+//############
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_53_slat1",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 10,
+//	end_idx: 10,
+//	//mother:"paddle_53_slat1lightguide",
+//	mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_53_slat2",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 11,
+//	end_idx: 11,
+//	//mother:"paddle_53_slat2lightguide",
+//	mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_30_slat1",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 12,
+//	end_idx: 12,
+//	//mother:"paddle_30_slat1lightguide",
+//	mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_30_slat2",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 13,
+//	end_idx: 13,
+//	//mother:"paddle_30_slat2lightguide",
+//	mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_44_slat1",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 14,
+//	end_idx: 14,
+//	//mother:"paddle_44_slat1lightguide",
+//	mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_44_slat2",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 15,
+//	end_idx: 15,
+//	//mother:"paddle_44_slat2lightguide",
+//	mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_61_slat1",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 16,
+//	end_idx: 16,
+//	//mother:"paddle_61_slat1lightguide",
+//	mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_61_slat2",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 17,
+//	end_idx: 17,
+//	//mother:"paddle_61_slat2lightguide",
+//	mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_87_slat1",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 18,
+//	end_idx: 18,
+//	//mother:"paddle_87_slat1lightguide",
+//	mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_87_slat2",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 19,
+//	end_idx: 19,
+//	//mother:"paddle_87_slat2lightguide",
+//	mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+//##########
+//PMTs for crate_D
+//##########
+{
+	name: "GEO",
+	index: "pmt_paddle_115_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 30,
+	end_idx: 30,
+	mother:"paddle_115_slat1lightguide",
+	//mother: "world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_top",
+	orientation: "manual", 
+}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_115_slat2",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 31,
+//	end_idx: 31,
+//	//mother:"paddle_115_slat2lightguide",
+//	mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
+{
+	name: "GEO",
+	index: "pmt_paddle_47_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 32,
+	end_idx: 32,
+	mother:"paddle_47_slat1lightguide",
+	//mother: "world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_top",
+	orientation: "manual", 
+}
+//{
+//	name: "GEO",
+//	index: "pmt_paddle_47_slat2",
+//	valid_begin: [0,0],
+//	valid_end: [0,0],
+//	start_idx: 33,
+//	end_idx: 33,
+//	//mother:"paddle_103_slat2lightguide",
+//	mother: "world",
+//	type: "pmtarray",
+//	pmt_model: "lappd",
+//	pos_table: "PMTINFO_muon_top",
+//	orientation: "manual", 
+//}
