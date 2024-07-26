@@ -32,6 +32,6 @@
 #/generator/add combo cry:point
 #/generator/pos/set 0.0 0.0 100.0
 /generator/add combo gun:point:poisson
-/generator/vtx/set mu- 0.0 0.0 -1.0 flat_muon
+/generator/vtx/set mu- flat_muon
 /generator/pos/set 600.0 0.0 100
-/run/beamOn 1000
+/run/beamOn 100
