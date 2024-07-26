@@ -5,6 +5,7 @@ bin/*
 *.heprep
 *.swp
 muonexperiment.sh
+CMakeLists.txt
 install/*
 build/*
 src/*
