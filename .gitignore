@@ -4,8 +4,10 @@ bin/*
 *.o
 *.heprep
 *.swp
+config/*
 muonexperiment.sh
 CMakeLists.txt
+Makefile
 install/*
 build/*
 src/*
