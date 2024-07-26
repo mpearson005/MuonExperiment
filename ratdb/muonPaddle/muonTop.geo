@@ -3859,20 +3859,20 @@
 //	pos_table: "PMTINFO_muon_top",
 //	orientation: "manual", 
 //}
-// UNDO LATER{
-//	name: "GEO",
-//	index: "pmt_paddle_88_slat1",
-//	valid_begin: [0,0],
-//	valid_end: [0,0],
-//	start_idx: 8,
-//	end_idx: 8,
-//	mother:"paddle_88_slat1lightguide",
-//	//mother: "world",
-//	type: "pmtarray",
-//	pmt_model: "lappd",
-//	pos_table: "PMTINFO_muon_top",
-//	orientation: "manual", 
-//}
+{
+	name: "GEO",
+	index: "pmt_paddle_88_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 8,
+	end_idx: 8,
+	mother:"paddle_88_slat1lightguide",
+	//mother: "world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_top",
+	orientation: "manual", 
+}
 //{
 //	name: "GEO",
 //	index: "pmt_paddle_88_slat2",
