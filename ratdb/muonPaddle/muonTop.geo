@@ -5,7 +5,7 @@
 	valid_end: [0,0],
 	mother: "world",
 	type: "box",
-	size: [1207,545,45],
+	size: [1207.1,545.1,45.1],
 	rotation: [0.0,0.0,90.0]
 	//rotation: [0.0,0.0,0.0]
 	position: [-695.0,0.0,1943.0]
@@ -22,7 +22,7 @@
 	mother: "crate_A",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-436,0.0],
+	position: [0.0,-436.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -102,7 +102,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -115,7 +115,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -180,7 +180,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -193,7 +193,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -287,7 +287,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -300,7 +300,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -365,7 +365,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -378,7 +378,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -472,7 +472,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -485,7 +485,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -550,7 +550,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -563,7 +563,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -578,7 +578,7 @@
 	mother: "crate_A",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,218,0.0],
+	position: [0.0,218.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -657,7 +657,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -670,7 +670,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -735,7 +735,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -748,7 +748,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -763,7 +763,7 @@
 	mother: "crate_A",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,436,0.0],
+	position: [0.0,436.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -842,7 +842,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -855,7 +855,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -920,7 +920,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -933,7 +933,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -944,7 +944,7 @@
 	valid_end: [0,0],
 	mother: "world",
 	type: "box",
-	size: [1207,545,45],
+	size: [1207.1,545.1,45.1],
 	rotation: [0.0,0.0,90.0]
 	position: [695.0,0.0,1943.0]
 	material: "air"
@@ -1039,7 +1039,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1052,7 +1052,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1117,7 +1117,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1130,7 +1130,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1224,7 +1224,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1237,7 +1237,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1302,7 +1302,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1315,7 +1315,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1409,7 +1409,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1422,7 +1422,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1487,7 +1487,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1500,7 +1500,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1515,7 +1515,7 @@
 	mother: "crate_B",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,218,0.0],
+	position: [0.0,218.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -1594,7 +1594,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1607,7 +1607,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1672,7 +1672,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1685,7 +1685,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1700,7 +1700,7 @@
 	mother: "crate_B",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,436,0.0],
+	position: [0.0,436.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -1779,7 +1779,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1792,7 +1792,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1804,7 +1804,7 @@
 	mother: "paddle_87_slat1airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [563.5,106.5,5.5]
@@ -1857,7 +1857,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1870,7 +1870,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1881,8 +1881,8 @@
 	valid_end: [0,0],
 	mother: "world",
 	type: "box",
-	size: [1207,545,45],
-	position: [0.0,695.0,1842]
+	size: [1207.0,545.0,45.0],
+	position: [0.0,695.0,1842.0]
 	material: "air"
 }
 {
@@ -1893,7 +1893,7 @@
 	mother: "crate_C",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-436,0.0],
+	position: [0.0,-436.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -1972,7 +1972,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1985,7 +1985,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -1997,7 +1997,7 @@
 	mother: "paddle_62_slat1airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [563.5,106.5,5.5]
@@ -2050,7 +2050,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2063,7 +2063,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2157,7 +2157,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2170,7 +2170,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2182,7 +2182,7 @@
 	mother: "paddle_302_slat1airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [563.5,106.5,5.5]
@@ -2235,7 +2235,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2248,7 +2248,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2289,7 +2289,7 @@
 	mother: "paddle_90_slat2airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [650.0,106.5,5.5]
@@ -2342,7 +2342,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2355,7 +2355,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2367,7 +2367,7 @@
 	mother: "paddle_90_slat1airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [563.5,106.5,5.5]
@@ -2420,7 +2420,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2433,7 +2433,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2448,7 +2448,7 @@
 	mother: "crate_C",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,218,0.0],
+	position: [0.0,218.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -2527,7 +2527,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2540,7 +2540,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2552,7 +2552,7 @@
 	mother: "paddle_16_slat1airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [563.5,106.5,5.5]
@@ -2605,7 +2605,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2618,7 +2618,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2633,7 +2633,7 @@
 	mother: "crate_C",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,436,0.0],
+	position: [0.0,436.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -2659,7 +2659,7 @@
 	mother: "paddle_46_slat2airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [650.0,106.5,5.5]
@@ -2712,7 +2712,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2725,7 +2725,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2737,7 +2737,7 @@
 	mother: "paddle_46_slat1airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [563.5,106.5,5.5]
@@ -2790,7 +2790,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2803,7 +2803,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2814,7 +2814,7 @@
 	valid_end: [0,0],
 	mother: "world",
 	type: "box",
-	size: [1207,545,45],
+	size: [1207.2,545.2,45.2],
 	position: [0.0,-695.0,1842]
 	rotation: [0.0,0.0,180]
 	material: "air",
@@ -2830,7 +2830,7 @@
 	mother: "crate_D",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-436,0.0],
+	position: [0.0,-436.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -2856,7 +2856,7 @@
 	mother: "paddle_115_slat2airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [650.0,106.5,5.5]
@@ -2909,7 +2909,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2922,7 +2922,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -2934,7 +2934,7 @@
 	mother: "paddle_115_slat1airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [563.5,106.5,5.5]
@@ -2987,7 +2987,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3000,7 +3000,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3041,7 +3041,7 @@
 	mother: "paddle_47_slat2airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [650.0,106.5,5.5]
@@ -3094,7 +3094,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3107,7 +3107,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3119,7 +3119,7 @@
 	mother: "paddle_47_slat1airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [563.5,106.5,5.5]
@@ -3172,7 +3172,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3185,7 +3185,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3226,7 +3226,7 @@
 	mother: "paddle_74_slat2airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [650.0,106.5,5.5]
@@ -3279,7 +3279,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3292,7 +3292,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3304,7 +3304,7 @@
 	mother: "paddle_74_slat1airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [563.5,106.5,5.5]
@@ -3357,7 +3357,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3370,7 +3370,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3385,7 +3385,7 @@
 	mother: "crate_D",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,218,0.0],
+	position: [0.0,218.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -3411,7 +3411,7 @@
 	mother: "paddle_34_slat2airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [650.0,106.5,5.5]
@@ -3464,7 +3464,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3477,7 +3477,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3489,7 +3489,7 @@
 	mother: "paddle_34_slat1airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [563.5,106.5,5.5]
@@ -3542,7 +3542,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3555,7 +3555,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3596,7 +3596,7 @@
 	mother: "paddle_78_slat2airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [650.0,106.5,5.5]
@@ -3649,7 +3649,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3662,7 +3662,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3674,7 +3674,7 @@
 	mother: "paddle_78_slat1airgap",
 	type: "box",
 	color: [0,100,0],
-	position: [50.0,0.0,0],
+	position: [50.0,0.0,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "scintillator"
 	size: [563.5,106.5,5.5]
@@ -3727,7 +3727,7 @@
 	type: "box",
 	color: [0,0,100],
 	position: [1.0,65.456,0.0],
-	rotation: [0.0,0.0,-40],
+	rotation: [0.0,0.0,-40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
@@ -3740,7 +3740,7 @@
 	type: "box",
 	color: [100,0,0],
 	position: [1.0,-65.456,0.0],
-	rotation: [0.0,0.0,40],
+	rotation: [0.0,0.0,40.0],
 	material: "mirror"
 	size: [65.945,0.5,5.5]
 }
