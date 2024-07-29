@@ -1,13 +1,13 @@
 /rat/db/set DETECTOR experiement "muonPaddle"
 /rat/db/set DETECTOR geo_file "muonPaddle/detector.geo"
-/rat/db/set PMT[lappd] width 110.5
-/rat/db/set PMT[lappd] thick 4.5
+#/rat/db/set PMT[lappd] width 110.5
+#/rat/db/set PMT[lappd] thick 4.5
 #/rat/db/set DAQ[SplitEVDAQ] trigger_threshold 2.0
 /rat/db/load muonPaddle/muonTop.geo
 /rat/db/load muonPaddle/muonBottom.geo
 
 /rat/db/set CRY latitude 37.8715
-/rat/db/set CRY subboxLength 15
+/rat/db/set CRY subboxLength 5
 
 /run/initialize
 /tracking/storeTrajectory 1
@@ -16,7 +16,6 @@
 /rat/procset trigger_threshold 1.0
 /rat/proc count
 /rat/procset update 10
-/tracking/storeTrajectory
 
 /rat/proc prune
 /rat/procset prune "mc.track:opticalphoton"
@@ -39,8 +38,8 @@
 
 
 /generator/add combo cry:point
-/generator/pos/set 0.0 0.0 3000.0
+/generator/pos/set 0.0 0.0 2100.0
 #/generator/add combo gun:point:poisson
 #/generator/vtx/set mu- 0.0 0.0 -1.0 2000
 #/generator/pos/set -600.0 0.0 100
-/run/beamOn 10
+/run/beamOn 1000
