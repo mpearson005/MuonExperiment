@@ -5,7 +5,7 @@
 	valid_end: [0,0],
 	mother: "world",
 	type: "box",
-	size: [1207.1,545.1,45.1],
+	size: [1207.5,545.5,45.5],
 	rotation: [0.0,0.0,90.0]
 	//rotation: [0.0,0.0,0.0]
 	position: [-695.0,0.0,1943.0]
@@ -22,7 +22,7 @@
 	mother: "crate_A",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-436.0,0.0],
+	position: [0.0,-436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -208,7 +208,7 @@
 	mother: "crate_A",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-218.0,0.0],
+	position: [0.0,-218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -578,7 +578,7 @@
 	mother: "crate_A",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,218.0,0.0],
+	position: [0.0,218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -763,7 +763,7 @@
 	mother: "crate_A",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,436.0,0.0],
+	position: [0.0,436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -944,7 +944,7 @@
 	valid_end: [0,0],
 	mother: "world",
 	type: "box",
-	size: [1207.1,545.1,45.1],
+	size: [1207.5,545.5,45.5],
 	rotation: [0.0,0.0,90.0]
 	position: [695.0,0.0,1943.0]
 	material: "air"
@@ -960,7 +960,7 @@
 	mother: "crate_B",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-436,0.0],
+	position: [0.0,-436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -1145,7 +1145,7 @@
 	mother: "crate_B",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-218.0,0.0],
+	position: [0.0,-218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -1515,7 +1515,7 @@
 	mother: "crate_B",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,218.0,0.0],
+	position: [0.0,218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -1700,7 +1700,7 @@
 	mother: "crate_B",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,436.0,0.0],
+	position: [0.0,436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -1881,7 +1881,7 @@
 	valid_end: [0,0],
 	mother: "world",
 	type: "box",
-	size: [1207.0,545.0,45.0],
+	size: [1207.5,545.5,45.5],
 	position: [0.0,695.0,1842.0]
 	material: "air"
 }
@@ -1893,7 +1893,7 @@
 	mother: "crate_C",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-436.0,0.0],
+	position: [0.0,-436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -2078,7 +2078,7 @@
 	mother: "crate_C",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-218.0,0.0],
+	position: [0.0,-218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -2448,7 +2448,7 @@
 	mother: "crate_C",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,218.0,0.0],
+	position: [0.0,218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -2633,7 +2633,7 @@
 	mother: "crate_C",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,436.0,0.0],
+	position: [0.0,436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -2814,7 +2814,7 @@
 	valid_end: [0,0],
 	mother: "world",
 	type: "box",
-	size: [1207.2,545.2,45.2],
+	size: [1207.5,545.5,45.5],
 	position: [0.0,-695.0,1842]
 	rotation: [0.0,0.0,180]
 	material: "air",
@@ -2830,7 +2830,7 @@
 	mother: "crate_D",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-436.0,0.0],
+	position: [0.0,-436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -3015,7 +3015,7 @@
 	mother: "crate_D",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-218.0,0.0],
+	position: [0.0,-218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -3385,7 +3385,7 @@
 	mother: "crate_D",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,218.0,0.0],
+	position: [0.0,218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -3570,7 +3570,7 @@
 	mother: "crate_D",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,436,0.0],
+	position: [0.0,436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
