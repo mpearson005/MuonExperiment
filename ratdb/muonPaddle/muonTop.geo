@@ -8,7 +8,7 @@
 	size: [1207.5,545.5,45.5],
 	rotation: [0.0,0.0,90.0]
 	//rotation: [0.0,0.0,0.0]
-	position: [-695.0,0.0,1943.0]
+	position: [695.0,0.0,1943.0]
 	material: "air"
 }
 //#####
@@ -22,7 +22,7 @@
 	mother: "crate_A",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-436.4,0.0],
+	position: [0.0,436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -208,7 +208,7 @@
 	mother: "crate_A",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-218.2,0.0],
+	position: [0.0,218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -578,7 +578,7 @@
 	mother: "crate_A",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,218.2,0.0],
+	position: [0.0,-218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -763,7 +763,7 @@
 	mother: "crate_A",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,436.4,0.0],
+	position: [0.0,-436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -946,7 +946,7 @@
 	type: "box",
 	size: [1207.5,545.5,45.5],
 	rotation: [0.0,0.0,90.0]
-	position: [695.0,0.0,1943.0]
+	position: [-695.0,0.0,1943.0]
 	material: "air"
 }
 //#####
@@ -960,7 +960,7 @@
 	mother: "crate_B",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-436.4,0.0],
+	position: [0.0,436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -1145,7 +1145,7 @@
 	mother: "crate_B",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-218.2,0.0],
+	position: [0.0,218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -1515,7 +1515,7 @@
 	mother: "crate_B",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,218.2,0.0],
+	position: [0.0,-218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -1700,7 +1700,7 @@
 	mother: "crate_B",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,436.4,0.0],
+	position: [0.0,-436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -1882,6 +1882,7 @@
 	mother: "world",
 	type: "box",
 	size: [1207.5,545.5,45.5],
+	//rotation: [0.0,0.0,180.0],
 	position: [0.0,695.0,1842.0]
 	material: "air"
 }
@@ -1893,7 +1894,7 @@
 	mother: "crate_C",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-436.4,0.0],
+	position: [0.0,436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -2078,7 +2079,7 @@
 	mother: "crate_C",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-218.2,0.0],
+	position: [0.0,218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -2448,7 +2449,7 @@
 	mother: "crate_C",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,218.2,0.0],
+	position: [0.0,-218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -2633,7 +2634,7 @@
 	mother: "crate_C",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,436.4,0.0],
+	position: [0.0,-436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -2816,7 +2817,7 @@
 	type: "box",
 	size: [1207.5,545.5,45.5],
 	position: [0.0,-695.0,1842]
-	rotation: [0.0,0.0,180]
+	//rotation: [0.0,0.0,180]
 	material: "air",
 }
 //#####
@@ -2830,7 +2831,7 @@
 	mother: "crate_D",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-436.4,0.0],
+	position: [0.0,436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -3015,7 +3016,7 @@
 	mother: "crate_D",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,-218.2,0.0],
+	position: [0.0,218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -3385,7 +3386,7 @@
 	mother: "crate_D",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,218.2,0.0],
+	position: [0.0,-218.2,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -3570,7 +3571,7 @@
 	mother: "crate_D",
 	type: "box",
 	color: [100,0,0],
-	position: [0.0,436.4,0.0],
+	position: [0.0,-436.4,0.0],
 	rotation: [0.0,0.0,0.0],
 	material: "aluminum"
 	size: [1207,109,45]
@@ -3852,8 +3853,8 @@
 //	valid_end: [0,0],
 //	start_idx: 7,
 //	end_idx: 7,
-//	mother:"paddle_303_slat2lightguide",
-//	//mother: "world",
+//	//mother:"paddle_303_slat2lightguide",
+//	mother: "world",
 //	type: "pmtarray",
 //	pmt_model: "lappd",
 //	pos_table: "PMTINFO_muon_top",
@@ -3880,8 +3881,8 @@
 //	valid_end: [0,0],
 //	start_idx: 9,
 //	end_idx: 9,
-//	mother:"paddle_88_slat2lightguide",
-//	//mother: "world",
+//	//mother:"paddle_88_slat2lightguide",
+//	mother: "world",
 //	type: "pmtarray",
 //	pmt_model: "lappd",
 //	pos_table: "PMTINFO_muon_top",
@@ -4031,7 +4032,7 @@
 //	orientation: "manual", 
 //}
 //##########
-//PMTs for crate_D
+//PMTS for crate_D
 //##########
 {
 	name: "GEO",
