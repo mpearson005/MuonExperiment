@@ -7,7 +7,7 @@
 /rat/db/load muonPaddle/muonBottom.geo
 
 /rat/db/set CRY latitude 37.8715
-/rat/db/set CRY subboxLength 5
+/rat/db/set CRY subboxLength 1
 
 /run/initialize
 /tracking/storeTrajectory 1
@@ -35,10 +35,11 @@
 #/rat/proc count
 #/rat/procset update 1
 /rat/proclast outntuple
+/rat/procset include_tracking 1
 
 
 /generator/add combo cry:point
-/generator/pos/set 0.0 0.0 2100.0
+/generator/pos/set 0.0 0.0 2300.0
 #/generator/add combo gun:point:poisson
 #/generator/vtx/set mu- 0.0 0.0 -1.0 2000
 #/generator/pos/set -600.0 0.0 100
