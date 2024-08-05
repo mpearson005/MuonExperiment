@@ -8,6 +8,7 @@
 	size: [1207.5, 1397.5, 45.0],
 	position: [0.0,0.0, -1890.5],
 	rotation: [0.0,0.0,-90.0],
+	//rotation: [0.0,0.0,0.0],
 	material: "air",
 }
 //#####
@@ -2050,12 +2051,208 @@
 //#############
 {
 	name:"GEO",
-	index: "pmt_paddle_52_slat2",
+	index: "pmt_paddle_0_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 0,
+	end_idx: 0,
+	mother:"paddle_0_slat1lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_0_slat2",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 1,
+	end_idx: 1,
+	mother:"paddle_0_slat2lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_1_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 2,
+	end_idx: 2,
+	mother:"paddle_1_slat1lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_1_slat2",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 3,
+	end_idx: 3,
+	mother:"paddle_1_slat2lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_2_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 4,
+	end_idx: 4,
+	mother:"paddle_2_slat1lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_2_slat2",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 5,
+	end_idx: 5,
+	mother:"paddle_2_slat2lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_3_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 6,
+	end_idx: 6,
+	mother:"paddle_3_slat1lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_3_slat2",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 7,
+	end_idx: 7,
+	mother:"paddle_3_slat2lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_4_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 8,
+	end_idx: 8,
+	mother:"paddle_4_slat1lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_4_slat2",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 9,
+	end_idx: 9,
+	mother:"paddle_4_slat2lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_5_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 10,
+	end_idx: 10,
+	mother:"paddle_5_slat1lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_5_slat2",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 11,
+	end_idx: 11,
+	mother:"paddle_5_slat2lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_52_slat1",
 	valid_begin: [0,0],
 	valid_end: [0,0],
 	start_idx: 12,
 	end_idx: 12,
+	mother:"paddle_52_slat1lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_52_slat2",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 13,
+	end_idx: 13,
 	mother:"paddle_52_slat2lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_307_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 14,
+	end_idx: 14,
+	mother:"paddle_307_slat1lightguide",
 	//mother:"world",
 	type: "pmtarray",
 	pmt_model: "lappd",
@@ -2067,9 +2264,93 @@
 	index: "pmt_paddle_307_slat2",
 	valid_begin: [0,0],
 	valid_end: [0,0],
-	start_idx: 13,
-	end_idx: 13,
+	start_idx: 15,
+	end_idx: 15,
 	mother:"paddle_307_slat2lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_96_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 16,
+	end_idx: 16,
+	mother:"paddle_96_slat1lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_96_slat2",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 17,
+	end_idx: 17,
+	mother:"paddle_96_slat2lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_38_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 18,
+	end_idx: 18,
+	mother:"paddle_38_slat1lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_38_slat2",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 19,
+	end_idx: 19,
+	mother:"paddle_38_slat2lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_11_slat1",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 20,
+	end_idx: 20,
+	mother:"paddle_11_slat1lightguide",
+	//mother:"world",
+	type: "pmtarray",
+	pmt_model: "lappd",
+	pos_table: "PMTINFO_muon_bottom",
+	orientation: "manual"
+}
+{
+	name:"GEO",
+	index: "pmt_paddle_11_slat2",
+	valid_begin: [0,0],
+	valid_end: [0,0],
+	start_idx: 21,
+	end_idx: 21,
+	mother:"paddle_11_slat2lightguide",
 	//mother:"world",
 	type: "pmtarray",
 	pmt_model: "lappd",
