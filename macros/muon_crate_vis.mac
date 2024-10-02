@@ -5,6 +5,7 @@
 #/rat/db/set DAQ[SplitEVDAQ] trigger_threshold 2.0
 /rat/db/load muonPaddle/muonTop.geo
 /rat/db/load muonPaddle/muonBottom.geo
+/rat/db/load muonPaddle/muonBrl.geo
 ## Already loaded
 
 /run/initialize

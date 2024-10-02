@@ -29,8 +29,7 @@
 
 #/rat/proc count
 #/rat/procset update 1
-#/rat/proclast outroot
-
+/rat/proclast outntuple
 
 /generator/add combo cry:point
 /generator/pos/set 0.0 0.0 2500.0
